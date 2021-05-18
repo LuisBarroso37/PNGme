@@ -16,7 +16,7 @@ Remotely:
 
 ## Running
 
-Add a secret message to a PNG in a "RuST" chunk:
+Add a secret message to a PNG in a "RuST" chunk:\
 _Output file is an optional flag which allows you make changes to the file without overwriting it_
 
     pngme encode ./<file name>.png RuST "<Secret message>" [output file]
