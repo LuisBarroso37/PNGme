@@ -2,7 +2,7 @@
 
 Add, show and remove secret messages from your PNG files
 
-This project follows [this guide from Picklenerd](https://picklenerd.github.io/pngme_book/).
+This project follows [this guide from Picklenerd](https://jrdngr.github.io/pngme_book/).
 
 ## Install
 
